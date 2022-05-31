@@ -3,5 +3,11 @@ Flutter crossplatform app shows various information like capital, languages, sta
 
 
 # Android Screen
-<img height="480px" src="https://github.com/CountryInfoApp/countryinfo/blob/master/screenshot/homepage.png"> 
+<img height="480px" src="https://github.com/ayush278/CountryInfoApp/blob/main/countryinfo/screenshot/homepage.png"> 
+
+<img height="480px" src="https://github.com/ayush278/CountryInfoApp/blob/main/countryinfo/screenshot/countrydetailpage.png"> 
+
+<img height="480px" src="https://github.com/ayush278/CountryInfoApp/blob/main/countryinfo/screenshot/countrydetailpage1.png"> 
+
+<img height="480px" src="https://github.com/ayush278/CountryInfoApp/blob/main/countryinfo/screenshot/searchwidget.png"> 
 
