@@ -1,4 +1,6 @@
-# countryinfo
+# Country information App
+Flutter crossplatform app shows various information like capital, languages, states, currency,etc of different countries
+
 
 A new Flutter project.
 
